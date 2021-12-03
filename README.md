@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web develoment.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on Web Applications.
-- 📫 Reach me via naingyeooo.npt@gmail.com.
+- 📫 Reach me via naingyeoo.npt@gmail.com.
